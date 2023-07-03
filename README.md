@@ -1,6 +1,6 @@
 ### Hi, I'm Lucas 👋
 
-📍 From Brazil <br>
+📍  From Brazil <br>
 🎓 Front-End Developer <br>
 ⚡ Strong interest in the intersection of finance, design and technology <br>
 📫 [Contact me through Linkedin](https://www.linkedin.com/in/telles-lucas/)
