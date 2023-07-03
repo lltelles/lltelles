@@ -7,8 +7,8 @@
 
 ### Recent Projects
 
-[Fast and Furious](https://lltelles.github.io/fast-and-furious-project/): 2D Game Project inspired by the Fast and Furious Franchise.
-[ExpressCrypto](https://vast-puce-sheep-cap.cyclic.app/home): Online crypto portfolio to track and create cryptocurrencies.
+[Fast and Furious](https://lltelles.github.io/fast-and-furious-project/): 2D Game Project inspired by the Fast and Furious Franchise. <br>
+[ExpressCrypto](https://vast-puce-sheep-cap.cyclic.app/home): Online crypto portfolio to track and create cryptocurrencies. <br>
 [Príncipe + Real](https://dancing-pixie-0378c7.netlify.app/): Platform to match the needs and offers within Príncipe Real neighborhood.
 
 ### Technologies
