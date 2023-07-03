@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi, I'm Lucas 👋
 
-<!--
-**lltelles/lltelles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📍 From Brazil
+🎓 Front-End Developer
+⚡ Strong interest in the intersection of finance, design and technology
+📫 [Contact me through Linkedin](https://www.linkedin.com/in/telles-lucas/)
 
-Here are some ideas to get you started:
+### Recent Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Fast and Furious](https://lltelles.github.io/fast-and-furious-project/): 2D Game Project inspired by the Fast and Furious Franchise.
+[ExpressCrypto](https://vast-puce-sheep-cap.cyclic.app/home): Online crypto portfolio to track and create cryptocurrencies.
+[Príncipe + Real](https://dancing-pixie-0378c7.netlify.app/): Platform to match the needs and offers within Príncipe Real neighborhood.
+
+### Technologies
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,mongodb,express,nodejs,bootstrap,materialui,git)](https://skillicons.dev)
+
+
