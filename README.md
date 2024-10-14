@@ -12,6 +12,6 @@
 
 ### Technologies
 
-![My Skills](https://skillicons.dev/icons?i=js,html,css,react,mongodb,express,nodejs,bootstrap,materialui,git,arduino)
+![My Skills](https://skillicons.dev/icons?i=js,react,mongodb,express,nodejs,bootstrap,materialui,git,arduino,azure,bash)
 
 
