@@ -12,6 +12,6 @@
 
 ### Technologies
 
-![My Skills](https://skillicons.dev/icons?i=nextjs,react,mongodb,express,nodejs,bootstrap,cs,git,arduino,figma,firebase,azure,bash,npm)
+![My Skills](https://skillicons.dev/icons?i=nextjs,react,cypress,mongodb,express,nodejs,bootstrap,cs,git,arduino,figma,firebase,azure,bash,npm)
 
 
