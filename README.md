@@ -1,8 +1,8 @@
 ### Hi, I'm Lucas 👋
 
 🌍 From Brazil <br>
-👨‍💻 Front-end Developer <br>
-🎨 Bridging Design & Development <br>
+👨‍💻 Front-end developer <br>
+🎨 Bridging design & technology <br>
 📫 [Contact me through Linkedin](https://www.linkedin.com/in/telles-lucas/)
 
 ### Recent Projects
