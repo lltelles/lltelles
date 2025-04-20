@@ -8,7 +8,7 @@
 ### Recent Projects
 
 [GT Advocacia](https://www.gt.adv.br/): Project carried out for a Law firm with a blog feature implemented within it. <br>
-[Príncipe + Real](https://dancing-pixie-0378c7.netlify.app/): Platform to match the needs and offers within Príncipe Real neighborhood.
+[Príncipe + Real](https://dancing-pixie-0378c7.netlify.app/): Platform to match the needs and offers within Príncipe Real neighborhood in Lisbon.
 
 ### Technologies
 
