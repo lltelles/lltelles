@@ -8,7 +8,7 @@
 ### Recent Projects
 
 [GT Advocacia](https://www.gt.adv.br/): Project carried out for a Law firm with a blog feature implemented within it. <br>
-[LiftTracker PRO]([https://dancing-pixie-0378c7.netlify.app/](https://apps.apple.com/br/app/lift-workout-tracker-gym-log/id6748657876?l=en-GB)): LiftTracker Pro provides all the tools you need to monitor your fitness journey and achieve your goals.
+[LiftTracker PRO](https://apps.apple.com/br/app/lift-workout-tracker-gym-log/id6748657876?l=en-GB): LiftTracker Pro provides all the tools you need to monitor your fitness journey and achieve your goals.
 
 ### Technologies
 
