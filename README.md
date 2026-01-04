@@ -7,11 +7,9 @@
 
 ### Recent Projects
 
-[LiftTracker PRO](https://apps.apple.com/br/app/lift-workout-tracker-gym-log/id6748657876?l=en-GB): LiftTracker Pro provides all the tools you need to monitor your fitness journey and achieve your goals.  <br>
-[JusAgentic](https://jusagentic.com.br/): JusAgentic is a modern legal case management platform featuring AI-powered agents, Kanban task boards, and documents management.
+<a href="https://apps.apple.com/br/app/lift-workout-tracker-gym-log/id6748657876?l=en-GB" target="_blank">LiftTracker PRO</a>: LiftTracker Pro provides all the tools you need to monitor your fitness journey and achieve your[...]
+<a href="https://jusagentic.com.br/" target="_blank">JusAgentic</a>: JusAgentic is a modern legal case management platform featuring AI-powered agents, Kanban task boards, and documents management.
 
 ### Technologies
 
 ![My Skills](https://skillicons.dev/icons?i=nextjs,react,cypress,mongodb,express,nodejs,bootstrap,cs,git,arduino,figma,firebase,azure,bash,npm)
-
-
