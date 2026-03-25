@@ -12,4 +12,4 @@
 
 ### Technologies
 
-![My Skills](https://skillicons.dev/icons?i=nextjs,react,typescript,tailwind,cypress,mongodb,express,nodejs,bootstrap,git,arduino,figma,firebase,azure,bash,npm)
+![My Skills](https://skillicons.dev/icons?i=nextjs,react,typescript,tailwind,cypress,mongodb,express,nodejs,bootstrap,git,arduino,figma,firebase,bash,npm)
